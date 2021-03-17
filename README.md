@@ -19,7 +19,7 @@ Link Vuforia Engine: https://developer.vuforia.com/downloads/sdk
 Link Visual Studio: https://visualstudio.microsoft.com/vs/
 
 ## Project Description:
-The principle of Augmented Reality (AR) consists in detecting a key object (in our case a QR code), which after successful localization, displays the 3D model on the screen of the, tablet or computer together with the control panel of the object.
+The principle of Augmented Reality (AR) consists in detecting a key object (in our case a QR code), which after successful localization, displays the 3D model on the screen of the mobile phone, tablet or computer together with the control panel of the object.
 
 The augmented reality application was developed for simple control of objects (Universal Robots, ABB, etc.) and for a better understanding of robotic movements and 3D visualization. The application was created in Unity3D using the Vuforia Engine and tested on Android (Tablet, Phone) and Windows (USB Webcam). In our case, the application uses a simple QR code to detect and display the scene.
 
