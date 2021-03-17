@@ -25,6 +25,10 @@ The augmented reality application demonstrates several cases of control:
 
 The project was realized at Institute of Automation and Computer Science, Brno University of Technology, Faculty of Mechanical Engineering (NETME Centre - Cybernetics and Robotics Division).
 
+<p align="center">
+<img src="https://github.com/rparak/AR-Robotics-Object-Control/blob/main/images/2.PNG" width="550" height="300">
+</p>
+
 ## Project Hierarchy:
 **Repositary [/AR-Robotics-Object-Control/tree/main/ar_object_control/Assets/]:**
 ```bash
@@ -35,6 +39,10 @@ The project was realized at Institute of Automation and Computer Science, Brno U
 [ Animation of the objects    ] /Animation/
 [ Scene of the Application    ] /Scenes/ar_object_control
 ```
+
+<p align="center">
+<img src="https://github.com/rparak/AR-Robotics-Object-Control/blob/main/images/1.PNG" width="550" height="300">
+</p>
 
 ## Augmented Reality Application::
 
