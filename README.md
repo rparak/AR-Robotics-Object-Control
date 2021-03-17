@@ -4,8 +4,9 @@
 
 **Software:**
 ```bash
-Unity3D 2019 and later, Vuforia 8.3.8 and late, Visual Studio 2017/2019
+Unity3D 2019 and later, Vuforia 8.3.8 and later, Visual Studio 2017/2019
 ```
+
 **Supported on the following operating systems:**
 ```bash
 Universal Windows Platform, Android
@@ -30,6 +31,7 @@ The project was realized at Institute of Automation and Computer Science, Brno U
 </p>
 
 ## Project Hierarchy:
+
 **Repositary [/AR-Robotics-Object-Control/tree/main/ar_object_control/Assets/]:**
 ```bash
 [ Object Control              ] /Script/ar_object_control.cs
