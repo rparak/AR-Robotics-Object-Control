@@ -33,6 +33,7 @@ The project was realized at Institute of Automation and Computer Science, Brno U
 [ Individual objects (.blend) ] /Object/
 [ Images (UI)                 ] /Image/
 [ Animation of the objects    ] /Animation/
+[ Scene of the Application    ] /Scenes/ar_object_control
 ```
 
 ## Augmented Reality Application::
