@@ -41,7 +41,7 @@ The project was realized at Institute of Automation and Computer Science, Brno U
 ```
 
 <p align="center">
-<img src="https://github.com/rparak/AR-Robotics-Object-Control/blob/main/images/1.PNG" width="550" height="300">
+<img src="https://github.com/rparak/AR-Robotics-Object-Control/blob/main/images/1.PNG" width="800" height="500">
 </p>
 
 ## Augmented Reality Application::
