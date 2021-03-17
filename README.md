@@ -26,7 +26,7 @@ The augmented reality application demonstrates several cases of control:
 The project was realized at Institute of Automation and Computer Science, Brno University of Technology, Faculty of Mechanical Engineering (NETME Centre - Cybernetics and Robotics Division).
 
 <p align="center">
-<img src="https://github.com/rparak/AR-Robotics-Object-Control/blob/main/images/2.PNG" width="550" height="300">
+<img src="https://github.com/rparak/AR-Robotics-Object-Control/blob/main/images/2.PNG" width="700" height="350">
 </p>
 
 ## Project Hierarchy:
