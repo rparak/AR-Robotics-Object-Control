@@ -18,7 +18,7 @@ Link Vuforia Engine: https://developer.vuforia.com/downloads/sdk
 Link Visual Studio: https://visualstudio.microsoft.com/vs/
 
 ## Project Description:
-The augmented reality application was developed for simple control of objects (Universal Robots, ABB, etc.) and for a better understanding of robotic movements and 3D visualization. The application was created in Unity3D using the Vuforia Engine and tested on Android (Tablet, Phone) and Windows (Using the Logitech C930e webcam). In my case, the application uses a simple QR code to detect and display the scene.
+The augmented reality application was developed for simple control of objects (Universal Robots, ABB, etc.) and for a better understanding of robotic movements and 3D visualization. The application was created in Unity3D using the Vuforia Engine and tested on Android (Tablet, Phone) and Windows (USB Webcam). In my case, the application uses a simple QR code to detect and display the scene.
 
 The augmented reality application demonstrates several cases of control:
 - positioning of the object, scaling, information about the object, animation, etc.
