@@ -24,7 +24,7 @@ The principle of Augmented Reality (AR) consists in detecting a key object (in o
 The augmented reality application was developed for simple control of objects (Universal Robots, ABB, etc.) and for a better understanding of robotic movements and 3D visualization. The application was created in Unity3D using the Vuforia Engine and tested on Android (Tablet, Phone) and Windows (USB Webcam). In our case, the application uses a simple QR code to detect and display the scene.
 
 The augmented reality application demonstrates several cases of control:
-- positioning of the object, scaling, information about the object, animation, etc.
+- movement of joints / links, scaling, information about the object (robot), animation, etc.
 
 The project was realized at Institute of Automation and Computer Science, Brno University of Technology, Faculty of Mechanical Engineering (NETME Centre - Cybernetics and Robotics Division).
 
