@@ -4,7 +4,7 @@
 
 **Software:**
 ```bash
-Unity3D 2019 and later, Vuforia 8.3.8 and later, Visual Studio 2017/2019
+Unity3D 2020 and later, Vuforia 8.3.8 and later, Visual Studio 2017/2019
 ```
 
 **Supported on the following operating systems:**
