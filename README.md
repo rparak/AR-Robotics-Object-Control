@@ -4,7 +4,7 @@
 
 **Software:**
 ```bash
-Unity3D 2020.1.8f1, Vuforia 8.3.8 and later, Visual Studio 2017/2019
+Unity3D 2020.1.8f1, Blender, Vuforia 8.3.8 and later, Visual Studio 2017/2019
 ```
 
 **Supported on the following operating systems:**
@@ -12,11 +12,12 @@ Unity3D 2020.1.8f1, Vuforia 8.3.8 and later, Visual Studio 2017/2019
 Universal Windows Platform, Android
 ```
 
-Link Unity: https://unity3d.com/get-unity/download/archive
-
-Link Vuforia Engine: https://developer.vuforia.com/downloads/sdk
-
-Link Visual Studio: https://visualstudio.microsoft.com/vs/
+| Software/Package      | Link                                                                                  |
+| --------------------- | ------------------------------------------------------------------------------------- |
+| Blender               | https://www.blender.org/download/                                                     |
+| Unity3D               | https://unity3d.com/get-unity/download/archive                                        |
+| Vuforia Engine        | https://developer.vuforia.com/downloads/sdk                                           |
+| Visual Studio         | https://visualstudio.microsoft.com/downloads/                                         |
 
 ## Project Description:
 The principle of Augmented Reality (AR) consists in detecting a key object (in our case a QR code), which after successful localization, displays the 3D model on the screen of the mobile phone, tablet or computer together with the control panel of the object.
