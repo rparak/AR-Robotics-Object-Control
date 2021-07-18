@@ -56,7 +56,10 @@ The project was realized at Institute of Automation and Computer Science, Brno U
 </p>
 
 <p align="center">
-<img src="https://github.com/rparak/AR-Robotics-Object-Control/blob/main/images/AR_2.png" width="600" height="350">
+<img src="https://github.com/rparak/AR-Robotics-Object-Control/blob/main/images/ar_21.JPG" width="300" height="150">
+<img src="https://github.com/rparak/AR-Robotics-Object-Control/blob/main/images/ar_22.JPG" width="300" height="150">
+<img src="https://github.com/rparak/AR-Robotics-Object-Control/blob/main/images/ar_23.JPG" width="300" height="150">
+<img src="https://github.com/rparak/AR-Robotics-Object-Control/blob/main/images/ar_24.JPG" width="300" height="150">
 </p>
 
 
