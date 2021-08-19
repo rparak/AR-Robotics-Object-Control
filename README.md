@@ -62,11 +62,6 @@ The project was realized at Institute of Automation and Computer Science, Brno U
 <img src="https://github.com/rparak/AR-Robotics-Object-Control/blob/main/images/ar_24.JPG" width="390" height="250">
 </p>
 
-
-## Result:
-
-Youtube: coming soon
-
 ## Contact Info:
 Roman.Parak@outlook.com
 
